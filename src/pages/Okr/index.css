@@ -1,0 +1,17 @@
+#Okr .section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#Okr .ant-card{
+    width: 30%;
+    margin-top: 30px;
+}
+#Okr .delIcon{
+    cursor: pointer;
+    position: absolute;
+    font-size:24px;
+    right: -5px;
+    top: -20px;
+    color: red;
+}
